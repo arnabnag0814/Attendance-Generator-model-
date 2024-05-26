@@ -1,11 +1,6 @@
 # Attendance-Generator-model-
 #This is a GUI based project which uses  tkinter module in Python for GUI purposes
 
-# coding: utf-8
-
-# In[ ]:
-
-
 import tkinter as tk
 from tkinter import *
 from tkinter import messagebox as mess
@@ -21,7 +16,6 @@ import datetime
 import time
 
 
-# In[ ]:
 
 
 class App:
@@ -317,13 +311,6 @@ class App:
 obj=App()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
